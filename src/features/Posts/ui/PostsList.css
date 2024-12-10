@@ -1,0 +1,10 @@
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 10px;
+    margin: 10px;
+    max-width: 800px;
+    background-color: rgb(209, 255, 255);
+}
